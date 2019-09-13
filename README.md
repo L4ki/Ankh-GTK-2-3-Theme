@@ -11,3 +11,5 @@ Changelog: 13.09.2019.
 ----------------------
 
 Modify icon in assets folder: line-h.png
+
+Modified file: gtkrc
